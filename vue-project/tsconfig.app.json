@@ -10,6 +10,7 @@
   ],
   "compilerOptions": {
     "noImplicitAny": false,
+    "allowJs": true,
     "composite": true,
     "baseUrl": ".",
     "paths": {
